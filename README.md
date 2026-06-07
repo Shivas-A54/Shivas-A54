@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a data enthusiast passionate about turning raw data into actionable insights that drive smarter decisions. I have built a strong foundation in **Python, SQL, Excel, and Power BI**, along with core data engineering concepts such as **ETL pipelines, data modelling, and warehouse architecture**.
+I am a data enthusiast passionate about turning raw data into actionable insights that drive smarter decisions. I have built a strong foundation in **Python, SQL, and Linux**, along with core data engineering concepts such as **ETL pipelines, data modelling, and warehouse architecture**.
 
 My learning journey is driven by curiosity about how data flows through systems and creates business value. I enjoy solving structured problems, building real-world projects, and continuously improving my technical expertise to align with industry standards.
 
@@ -24,12 +24,6 @@ My learning journey is driven by curiosity about how data flows through systems 
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=python,mysql&titles=true"/>
   </a>
 </h3>
-
-✔ Object-Oriented Programming (OOPS)  
-✔ Data Manipulation  
-✔ Query Optimisation  
-✔ Problem Solving  
-
 ---
 
 <h3>
@@ -38,12 +32,6 @@ My learning journey is driven by curiosity about how data flows through systems 
     <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel&titles=true"/>
   </a>
 </h3>
-
-✔ Dashboard Development  
-✔ KPI Reporting  
-✔ Business Insights  
-✔ Data Cleaning & Transformation  
-
 ---
 
 <h3>
@@ -52,13 +40,6 @@ My learning journey is driven by curiosity about how data flows through systems 
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux,bash&titles=true"/>
   </a>
 </h3>
-
-✔ Database Connectivity (JDBC)  
-✔ ETL Pipelines  
-✔ Data Modelling  
-✔ Bronze → Silver → Gold Architecture  
-✔ Warehouse Concepts  
-
 ---
 
 <h3>
@@ -67,11 +48,6 @@ My learning journey is driven by curiosity about how data flows through systems 
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,jupyter,github,git&titles=true"/>
   </a>
 </h3>
-
-✔ Version Control  
-✔ Collaborative Development  
-✔ Notebook-based Analysis  
-
 ---
 > You can't go back and change the beginning.  
 > Start where you are and change the ending.  
