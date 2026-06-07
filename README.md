@@ -13,13 +13,7 @@ I am a data enthusiast passionate about turning raw data into actionable insight
 
 My learning journey is driven by curiosity about how data flows through systems and creates business value. I enjoy solving structured problems, building real-world projects, and continuously improving my technical expertise to align with industry standards.
 
-<!-- Profile Views & Followers -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shivas-A54&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Shivas-A54?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
-</p>
----
+
 
 ## 🧠 Technical Skills
 
